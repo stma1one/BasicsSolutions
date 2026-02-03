@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 namespace ExceptionExample;
 
 // מחלקה המייצגת ציון עם תכונה פרטית לשמירת הציון
+//
 public class Grade
 {
+	//dfgdfg
 	private int _score;//תכונה פרטית לשמירת הציון
 
 	// מאפיין ציבורי לגישה לציון
